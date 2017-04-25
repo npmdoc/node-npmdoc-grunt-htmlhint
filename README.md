@@ -1,4 +1,7 @@
-# api documentation for  [grunt-htmlhint (v0.9.13)](https://github.com/yaniswang/grunt-htmlhint)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-htmlhint.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-htmlhint) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-htmlhint.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-htmlhint)
+# npmdoc-grunt-htmlhint
+
+#### basic api documentation for  [grunt-htmlhint (v0.9.13)](https://github.com/yaniswang/grunt-htmlhint)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-htmlhint.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-htmlhint) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-htmlhint.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-htmlhint)
+
 #### Validate html files with htmlhint.
 
 [![NPM](https://nodei.co/npm/grunt-htmlhint.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-htmlhint)
@@ -71,7 +74,8 @@
     "scripts": {
         "test": "grunt --force"
     },
-    "version": "0.9.13"
+    "version": "0.9.13",
+    "bin": {}
 }
 ```
 
